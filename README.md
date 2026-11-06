@@ -8,15 +8,15 @@
 
 ![蓝硕2.5寸全金属硬盘盒](./images/box.png)
 
-插入七彩虹 Colorful SL500 256GB 无法识别问题。
+插入七彩虹 Colorful SL500 256GB SSD有无法识别问题。
 
-![七彩虹 Colorful SL500 256GB](./images/0.png)
+![七彩虹 Colorful SL500 256GB](./images/0.jpg)
 
 这是前提，然后找客服问道技术联系方式，拿到了新版本主控固件。
 
 目录说明：
 ```text
-Firmware 最新版固件
+Firmware 固件目录
 tool     刷机工具
 ```
 
