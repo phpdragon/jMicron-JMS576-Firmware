@@ -21,7 +21,7 @@ Firmware 固件目录
 tool     刷机工具
 ```
 
-## 一、使用办法
+## 使用办法
 
 1. 把硬盘盒子接入电脑后置USB口，应该不需要接入硬盘就可以刷机。
 
@@ -42,3 +42,12 @@ tool     刷机工具
 6. 插入硬盘，打开`DiskGenius`， 查看硬盘SMART信息，说明已经正常可使用了。
 
 ![校验刷写结果](./images/4.png)
+
+
+## 盒子信息自定义
+
+在`EEPROM Setting`区域，填入你想要的信息。
+
+![盒子信息自定义](./images/5.png)
+
+然后取消勾选`Firmware Update`, 勾选`EEPROM Update`, 再点击`START` 刷入diy信息。
