@@ -12,9 +12,10 @@
 
 ![七彩虹 Colorful SL500 256GB](./images/0.jpg)
 
-这是前提，然后找客服问道技术联系方式，拿到了新版本主控固件。
+这是前提，然后找客服问到技术联系方式，拿到了新版本主控固件。
 
-目录说明：
+## 目录说明
+
 ```text
 Firmware 固件目录
 tool     刷机工具
@@ -24,7 +25,7 @@ tool     刷机工具
 
 1. 把硬盘盒子接入电脑后置USB口，应该不需要接入硬盘就可以刷机。
 
-2. 打开JMMassProd.exe刷机软件。
+2. 打开`JMMassProd.exe`刷机软件。
 
 3. 取消勾选`EEPROM Update`、`For Clone Product`，勾选 `RD Version`，输入密码`jmicron`。
 
